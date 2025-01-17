@@ -22,7 +22,7 @@ This is a multiplayer Tic-Tac-Toe game implemented in Go. The server allows two 
 
 2. Clone the repository:
 
-`git clone https://github.com/Vova-luk/tic_tac_toe`
+`git clone https://github.com/Vova-luk/tic_tac_toe.git`
 
 3. Navigate to the project folder:
 
